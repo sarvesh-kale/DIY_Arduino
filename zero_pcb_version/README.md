@@ -15,6 +15,7 @@ This is a zero pcb soldered version of the Arduino Uno
 - Breadboard 
 - Multimeter to check connectivity and Volts reading
 - IC 28 pin socket 
+- 2x22pF Capacitors
 
 ### Precautions 
 
