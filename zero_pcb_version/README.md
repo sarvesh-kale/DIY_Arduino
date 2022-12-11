@@ -19,7 +19,7 @@ This is a zero pcb soldered version of the Arduino Uno
 
 ### Precautions 
 
-- While operating the soldering iron make sure you wear protective googles as we unknowingly reach close to the hot iron oftenly. ** SAFETY IS MUST ** 
+- While operating the soldering iron make sure you wear protective googles as we unknowingly reach close to the hot iron oftenly. **SAFETY IS MUST** 
 
 - Make Sure you do not have the IC in the IC holder when you first power on the circuit for testing the voltages you get on the pins. (A good advice from friend)
 
